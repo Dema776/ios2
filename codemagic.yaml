@@ -12,9 +12,9 @@ workflows:
         bundle_identifier: io.gonative.ios.mynznk
       vars:
         BUNDLE_ID: "io.gonative.ios.mynznk"
-        XCODE_WORKSPACE: "CodemagicSample.xcworkspace" # <-- Put the name of your Xcode workspace here
-        XCODE_SCHEME: "CodemagicSample" # <-- Put the name of your Xcode scheme here
-        APP_STORE_APPLE_ID: 1555555551
+        XCODE_WORKSPACE: "RUOOL.xcworkspace" # <-- Put the name of your Xcode workspace here
+        XCODE_SCHEME: "LeanIOSTests" # <-- Put the name of your Xcode scheme here
+        APP_STORE_APPLE_ID: vas3100@yandex.ru
       xcode: latest
       cocoapods: default
     scripts:
